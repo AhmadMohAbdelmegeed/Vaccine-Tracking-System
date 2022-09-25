@@ -1,0 +1,17 @@
+﻿  Reading Qt configuration (D:/qt/6.2.4/msvc2019_64/bin/qmake)
+  DataSaver.cpp
+  Globals.cpp
+  Node.cpp
+  Screen.cpp
+  Trie.cpp
+  main.cpp
+C:\Users\LAPTOP\source\repos\VaccineTrackSystem\Trie.h(9): warning C4091: 'virtual ': ignored on left of 'Trie::Node' when no variable is declared (compiling source file Globals.cpp)
+C:\Users\LAPTOP\source\repos\VaccineTrackSystem\Trie.h(9): warning C4091: 'virtual ': ignored on left of 'Trie::Node' when no variable is declared (compiling source file Node.cpp)
+C:\Users\LAPTOP\source\repos\VaccineTrackSystem\Trie.h(9): warning C4091: 'virtual ': ignored on left of 'Trie::Node' when no variable is declared (compiling source file Trie.cpp)
+C:\Users\LAPTOP\source\repos\VaccineTrackSystem\Trie.h(9): warning C4091: 'virtual ': ignored on left of 'Trie::Node' when no variable is declared (compiling source file DataSaver.cpp)
+C:\Users\LAPTOP\source\repos\VaccineTrackSystem\Trie.h(9): warning C4091: 'virtual ': ignored on left of 'Trie::Node' when no variable is declared (compiling source file main.cpp)
+C:\Users\LAPTOP\source\repos\VaccineTrackSystem\Trie.h(9): warning C4091: 'virtual ': ignored on left of 'Trie::Node' when no variable is declared (compiling source file Screen.cpp)
+C:\Users\LAPTOP\source\repos\VaccineTrackSystem\Screen.cpp(428): warning C4700: uninitialized local variable 'user' used
+  moc_Screen.cpp
+C:\Users\LAPTOP\source\repos\VaccineTrackSystem\Trie.h(9): warning C4091: 'virtual ': ignored on left of 'Trie::Node' when no variable is declared
+  VaccineTrackSystem.vcxproj -> C:\Users\LAPTOP\source\repos\VaccineTrackSystem\x64\Debug\VaccineTrackSystem.exe
